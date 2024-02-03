@@ -1,0 +1,64 @@
+.bg-light-gray {
+  background-color: #f8f9fa; 
+}
+
+
+.custom-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  padding: 20px; 
+}
+
+.custom-btn-primary {
+  background-color: #007bff; 
+  border-color: #007bff;
+}
+
+.custom-btn-primary:hover {
+  background-color: #0056b3; 
+  border-color: #0056b3;
+}
+
+.custom-btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.custom-btn-danger:hover {
+  background-color: #bd2130; 
+  border-color: #bd2130;
+}
+
+.custom-btn-success {
+  background-color: #28a745; 
+  border-color: #28a745;
+}
+
+.custom-btn-success:hover {
+  background-color: #218838; 
+  border-color: #218838;
+}
+
+
+.custom-alert-primary {
+  background-color: #cce5ff;
+  border-color: #b8daff;
+  color: #004085; 
+}
+
+.custom-alert-danger {
+  background-color: #f8d7da; 
+  border-color: #f5c6cb;
+  color: #721c24; 
+}
+
+.custom-form-control {
+  border-color: #ced4da; 
+}
+
+@media (max-width: 576px) {
+  .custom-col-md-4 {
+    margin-bottom: 15px;
+  }
+}
